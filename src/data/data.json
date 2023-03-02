@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "label": "Revenue",
+        "value": "$2.089",
+        "percentage": "10%",
+        "icon": "fa fa-up-arrow"
+    },
+    {
+        "id": 2,
+        "label": "Orders",
+        "value": "356",
+        "percentage": "20%",
+        "icon": "fa fa-shopping-cart"
+
+    },
+    {
+        "id": 3,
+        "label": "Dine-in",
+        "value": "220",
+        "percentage": "10%",
+        "icon": "fa fa-utensils"
+    },
+    {
+        "id": 4,
+        "label": "Takeaway",
+        "value": "135",
+        "percentage": "5%",
+        "icon": "fa fa-shopping-bag"
+    }
+]
